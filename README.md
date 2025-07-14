@@ -12,5 +12,5 @@ The impact on those discoveries on the environment
 The organisms that are present in the environment and their differences
 # survival rate
 The causes of a specific survival rate being low or high
-# enviornment selection
+# environment selection
 Artic tundra or tropical rainforest
