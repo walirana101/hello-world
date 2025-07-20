@@ -14,3 +14,12 @@ The organisms that are present in the environment and their differences
 The causes of a specific survival rate being low or high
 # environment selection
 Artic tundra or tropical rainforest
+The overview of a DNA evolution simulator
+    "How does it have an impact on the environment?"
+    "What types of animals are prone to live in the environment?"
+    Thinking critically on the impact of decision making
+    Highly interative application among individuals
+UI - Acquiring information in a certain manner
+    Users can interact with the application efficiently
+    Obtaining knowledge on specific organisms
+    
